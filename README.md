@@ -10,3 +10,6 @@ cd /root
 ls -al     #可以看到隐藏的.kube文件夹
 cd .kube   #进入.kube文件件
 cat config #即可显示server，certificate-authority-data，client-certificate-data，client-key-data
+
+
+若存在问题请联系：hongchao.deng@alibaba-inc.com, jicheng.sk@alibaba-inc.com
