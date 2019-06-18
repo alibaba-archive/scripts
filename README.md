@@ -6,13 +6,14 @@ cloud-native-apphub:
 注意：一般config文件处于.kube文件夹内，且kube文件是隐藏文件夹。
 
 若集群master登录用户为root:
-cd /root
+1、cd /root
 
-ls -al     #可以看到隐藏的.kube文件夹
+2、ls -al     #可以看到隐藏的.kube文件夹
 
-cd .kube   #进入.kube文件件
+3、cd .kube   #进入.kube文件件
 
-cat config #即可显示server，certificate-authority-data，client-certificate-data，client-key-data
+4、cat config #即可显示server，certificate-authority-data，client-certificate-data，client-key-data
+
 
 
 若存在问题请联系：hongchao.deng@alibaba-inc.com, jicheng.sk@alibaba-inc.com
