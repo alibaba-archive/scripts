@@ -14,6 +14,6 @@ cloud-native-apphub:
 
 4、cat config #即可显示server，certificate-authority-data，client-certificate-data，client-key-data
 
-
+![alt text](./resource/image/kubeconfig.png)
 
 若存在问题请联系：hongchao.deng@alibaba-inc.com, jicheng.sk@alibaba-inc.com
